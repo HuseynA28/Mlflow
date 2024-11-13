@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/894736273746746017/5ba15437385848b39f6deff9921a49a0/artifacts
+end_time: 1731487153573
+entry_point_name: ''
+experiment_id: '894736273746746017'
+lifecycle_stage: active
+run_id: 5ba15437385848b39f6deff9921a49a0
+run_name: welcoming-cub-613
+run_uuid: 5ba15437385848b39f6deff9921a49a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731487152479
+status: 3
+tags: []
+user_id: codespace

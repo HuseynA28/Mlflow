@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/351196183979010229/2e43bd1d9a5e47e4a7a788745688ef67/artifacts
+end_time: 1731487441053
+entry_point_name: ''
+experiment_id: '351196183979010229'
+lifecycle_stage: active
+run_id: 2e43bd1d9a5e47e4a7a788745688ef67
+run_name: melodic-moth-958
+run_uuid: 2e43bd1d9a5e47e4a7a788745688ef67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731487439851
+status: 3
+tags: []
+user_id: codespace

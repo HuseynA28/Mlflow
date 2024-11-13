@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/682992962284905029/be4e9ff9e16144cfacae874944ceb3d7/artifacts
+end_time: 1731487820258
+entry_point_name: ''
+experiment_id: '682992962284905029'
+lifecycle_stage: active
+run_id: be4e9ff9e16144cfacae874944ceb3d7
+run_name: rumbling-skunk-921
+run_uuid: be4e9ff9e16144cfacae874944ceb3d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731487819221
+status: 3
+tags: []
+user_id: codespace

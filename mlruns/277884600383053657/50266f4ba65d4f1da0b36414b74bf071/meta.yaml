@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277884600383053657/50266f4ba65d4f1da0b36414b74bf071/artifacts
+end_time: 1731489512297
+entry_point_name: ''
+experiment_id: '277884600383053657'
+lifecycle_stage: active
+run_id: 50266f4ba65d4f1da0b36414b74bf071
+run_name: worried-carp-513
+run_uuid: 50266f4ba65d4f1da0b36414b74bf071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731489511076
+status: 3
+tags: []
+user_id: codespace

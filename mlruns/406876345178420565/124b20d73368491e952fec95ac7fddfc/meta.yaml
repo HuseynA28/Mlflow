@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Mlflow/mlruns/406876345178420565/124b20d73368491e952fec95ac7fddfc/artifacts
+end_time: 1731486852237
+entry_point_name: ''
+experiment_id: '406876345178420565'
+lifecycle_stage: active
+run_id: 124b20d73368491e952fec95ac7fddfc
+run_name: gifted-frog-377
+run_uuid: 124b20d73368491e952fec95ac7fddfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731486851052
+status: 3
+tags: []
+user_id: codespace

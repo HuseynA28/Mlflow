@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Mlflow/mlruns/406876345178420565/958267451f10429292f5af2a93db2e25/artifacts
+end_time: 1731486800567
+entry_point_name: ''
+experiment_id: '406876345178420565'
+lifecycle_stage: active
+run_id: 958267451f10429292f5af2a93db2e25
+run_name: worried-goat-559
+run_uuid: 958267451f10429292f5af2a93db2e25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731486798751
+status: 3
+tags: []
+user_id: codespace
