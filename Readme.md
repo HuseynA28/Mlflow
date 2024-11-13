@@ -2,6 +2,8 @@
 
 First, ensure MLflow is installed and set up correctly. Then you can proceed with the steps below to utilize MLflow for managing and predicting with a Prophet model. Do not forget to convet the  Port Visibility to Public
 
+
+Go to Trendz Analytics and copy the code to custom python 
 ### Prerequisites
 Make sure you have the necessary libraries installed:
 ```bash
@@ -42,3 +44,4 @@ outputY = forecast['yhat'].tolist()
 
 return outputY
 ```
+![alt text](image.png)
